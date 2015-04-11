@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/adi/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/home/adi/Desktop/Surround App/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-022e1355cdf3fc5c8a7eb4fdb1ffe48458aee769.jar" />
+    </item>
+    <item
+        jar="/home/adi/Desktop/Surround App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/adi/Desktop/Surround App/app/build/intermediates/pre-dexed/debug/classes-3a22de048b7a2fd095ecb812e4fe68d1055002d0.jar" />
+    </item>
+    <item
+        jar="/home/adi/Desktop/Surround App/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/adi/Desktop/Surround App/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-c0adaa2f3f71fd597bac989841e227cfbb01bf03.jar" />
+    </item>
+    <item
+        jar="/home/adi/Desktop/Surround App/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/adi/Desktop/Surround App/app/build/intermediates/pre-dexed/debug/classes-7d5d4bd83010f71baef469a2b418a099b91d12bc.jar" />
+    </item>
+    <item
+        jar="/home/adi/Desktop/Surround App/app/libs/volley.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/home/adi/Desktop/Surround App/app/build/intermediates/pre-dexed/debug/volley-922bdbba91c37056fce0569df3871fc8556f483b.jar" />
+    </item>
+
+</items>
