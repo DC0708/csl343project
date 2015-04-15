@@ -9,6 +9,20 @@
         <dex dex="/home/adi/Desktop/Surround App/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-022e1355cdf3fc5c8a7eb4fdb1ffe48458aee769.jar" />
     </item>
     <item
+        jar="/home/adi/github/csl343project/Surround App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/adi/github/csl343project/Surround App/app/build/intermediates/pre-dexed/debug/classes-289c1c609a833d08a043bebeb7bd0157d65aaf8d.jar" />
+    </item>
+    <item
+        jar="/home/adi/github/csl343project/Surround App/app/libs/volley.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
+        <dex dex="/home/adi/github/csl343project/Surround App/app/build/intermediates/pre-dexed/debug/volley-4e21f0106098c659a62191d412ea61d473bbc3cf.jar" />
+    </item>
+    <item
         jar="/home/adi/Desktop/Surround App/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -23,6 +37,13 @@
         <dex dex="/home/adi/Desktop/Surround App/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-c0adaa2f3f71fd597bac989841e227cfbb01bf03.jar" />
     </item>
     <item
+        jar="/home/adi/github/csl343project/Surround App/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/home/adi/github/csl343project/Surround App/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-9ed7eeb0cfd53d18027524df136c1c8b89158475.jar" />
+    </item>
+    <item
         jar="/home/adi/Desktop/Surround App/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
         jumboMode="false"
         revision="21.1.2"
@@ -35,6 +56,13 @@
         revision="21.1.2"
         sha1="d4aaa36e04ee71a83444f8367c97a46fda662d2c">
         <dex dex="/home/adi/Desktop/Surround App/app/build/intermediates/pre-dexed/debug/volley-922bdbba91c37056fce0569df3871fc8556f483b.jar" />
+    </item>
+    <item
+        jar="/home/adi/github/csl343project/Surround App/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/home/adi/github/csl343project/Surround App/app/build/intermediates/pre-dexed/debug/classes-7074a135d8138c84bf6bd22c623e0405aa1449c2.jar" />
     </item>
 
 </items>

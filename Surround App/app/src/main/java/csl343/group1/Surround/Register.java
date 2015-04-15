@@ -167,4 +167,11 @@ public class Register extends Activity {
 		if (progressDialog.isShowing())
 			progressDialog.dismiss();
 	}
+
+    // Go to login screen by back button
+    public void onBackPressed() {
+        Intent start = new Intent(Register.this,MainActivity.class);
+        startActivity(start);
+        finishActivity(0);
+    }
 }
