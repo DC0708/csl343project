@@ -1,0 +1,10 @@
+<?php
+
+/**
+ * Database config variables
+ */
+define("DB_HOST", "sql209.byethost24.com");
+define("DB_USER", "b24_15975349");
+define("DB_PASSWORD", "surround");
+define("DB_DATABASE", "android_api");
+?>
